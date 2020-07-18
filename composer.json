@@ -10,6 +10,7 @@
             "email": "packagist@ivanhanak.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "hanakivan\\DateFormats\\": "src/"
