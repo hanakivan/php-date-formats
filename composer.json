@@ -1,6 +1,6 @@
 {
     "name": "hanakivan/date-formats",
-    "description": "Prepared constants for various date formats.",
+    "description": "Human readable constants ready to be used instead of guessing what date parameter to use.",
     "license" : "MIT",
     "type" : "package",
     "version": "1.0.0",

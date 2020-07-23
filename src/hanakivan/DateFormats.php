@@ -28,4 +28,19 @@ class DateFormats {
 
     // => 12/23/20
     const DATE_FORMAT_US = "m/d/y";
+
+    // => January
+    const MONTH_FULL_NAME = "F";
+
+    // => 1 (as a january)
+    const MONTH_NUMBER = "n";
+
+    // => 2020
+    const FULL_YEAR = "Y";
+
+    // => day number without leading zero, e.g. 1, 4, 10, 31...
+    const DAY_NUMBER = "j";
 }
+
+$now = new \DateTime();
+echo $now->format(DateFormats::DATE_FORMAT);
