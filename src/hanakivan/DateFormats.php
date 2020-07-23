@@ -41,6 +41,3 @@ class DateFormats {
     // => day number without leading zero, e.g. 1, 4, 10, 31...
     const DAY_NUMBER = "j";
 }
-
-$now = new \DateTime();
-echo $now->format(DateFormats::DATE_FORMAT);
