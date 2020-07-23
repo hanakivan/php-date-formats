@@ -4,13 +4,13 @@ Human readable constants ready to be used instead of guessing what date paramete
 
 ### With composer
 ```
-$ composer require nesbot/carbon
+$ composer require hanakivan/date-formats
 ```
 
 ```json
 {
     "require": {
-        "hanakivan/dateformats": "^2.0"
+        "hanakivan/date-formats": "^2.0"
     }
 }
 ```
