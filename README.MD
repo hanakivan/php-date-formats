@@ -10,7 +10,7 @@ $ composer require hanakivan/date-formats
 ```json
 {
     "require": {
-        "hanakivan/date-formats": "^2.0"
+        "hanakivan/date-formats": "^3.0"
     }
 }
 ```
