@@ -12,7 +12,9 @@
     ],
     "autoload": {
         "psr-4": {
-            "hanakivan\\DateFormats\\": "src/"
+            "hanakivan\\": "src/hanakivan/"
         }
-    }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }
