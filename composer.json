@@ -3,7 +3,7 @@
     "description": "Human readable constants ready to be used instead of guessing what date parameter to use.",
     "license" : "MIT",
     "type" : "package",
-    "version": "2.0.2",
+    "version": "3.0.0",
     "authors": [
         {
             "name": "Ivan Hanak",
